@@ -1,8 +1,6 @@
-from time import perf_counter
 from time import perf_counter_ns
 from random import randint
-from time import time_ns
-from time import time
+
 
 
 def llenar(arr, lon):
@@ -38,9 +36,4 @@ def main():
     resultado = busqueda_binarias(lista, x)
     print("Tiempo Calculado ", perf_counter_ns() - tic1)
     print("Resultado:", resultado)
-
-# anderson porras rios
-# anderson porras rios
-# anderson porras rios
-
 main()
