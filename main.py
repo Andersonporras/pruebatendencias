@@ -38,6 +38,8 @@ def main():
     resultado = busqueda_binarias(lista, x)
     print("Tiempo Calculado ", perf_counter_ns() - tic1)
     print("Resultado:", resultado)
-
+    print("Resultado:", resultado)
+    print("Resultado:", resultado)
+# anderson porras rios
 
 main()
