@@ -37,5 +37,5 @@ def main():
     print("Tiempo Calculado ", perf_counter_ns() - tic1)
     print("Resultado:", resultado)
 
-  #prueba desde pychar,
+  #prueba ,
 main()
